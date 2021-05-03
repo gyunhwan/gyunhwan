@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gyunhwan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning React And Spring
+- 👀 I’m interested in React and Next.js
+- 🌱 I’m currently learning TypeScript 
 
 
 
