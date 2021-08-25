@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gyunhwan
-- 👀 I’m interested in React and Next.js
+- 👀 I’m interested in React and Nest.js
 - 🌱 I’m currently learning TypeScript 
 
 
